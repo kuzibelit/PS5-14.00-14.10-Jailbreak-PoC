@@ -46,7 +46,7 @@ The source includes proposed later-stage research ideas. Those comments should b
 ## Background and Related Public Research
 
 This repository sits within a broader public research landscape covering PlayStation kernel internals, FreeBSD-derived behavior, and AIO-related attack surfaces. The following links are useful background references; their inclusion does not prove that every technique in `prolapse` derives from them or that their findings apply to firmware 14.00 / 14.10.
-
+- [Public code release](https://gist.github.com/zecoxao/80dff057233c1f203352ff8bf317294d): a publicly shared snapshot of the ongoing Prolapse research effort, brought to public attention by Jose Coixao (@notnotzecoxao).
 - [PSFree — `lapse.mjs`](https://github.com/rezaadi0105/PSFree/blob/main/lapse.mjs): public research concerning an AIO-related kernel exploit for earlier PS4/PS5 firmware generations.
 - [PS5-14.10-Research — AIO batch investigation](https://github.com/ZigZagBoi1/PS5-14.10-Research/blob/master/docs/AIO_BATCH_14_10.md): notes on AIO syscalls and batch request handling associated with firmware 14.10.
 - [PS5-14.10-Research](https://github.com/ZigZagBoi1/PS5-14.10-Research): a broader public research project examining PS5 syscall behavior and kernel attack surfaces.
