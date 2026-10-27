@@ -1,4 +1,4 @@
-# PS5 14.00 / 14.10 Jailbreak Research
+# PS5 14.00 / 14.10 Jailbreak Proof of Concept
 
 **Experimental PS5 security research and Jailbreak Proof of Concept public-reference collection.**
 
