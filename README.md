@@ -2,7 +2,7 @@
 
 **Experimental PS5 security research and Jailbreak Proof of Concept public-reference collection.**
 
-`prolapse` organizes research notes, references, and experimental source material related to PlayStation 5 security and kernel behavior. The repository is intended as a general research reference for the PS5 14.00 / 14.10 jailbreak-research topic, while keeping implementation details and compatibility claims tied to the evidence actually available.
+`publapse` organizes research notes, references, and experimental source material related to PlayStation 5 security and kernel behavior. The repository is intended as a general research reference for the PS5 14.00 / 14.10 jailbreak-research topic, while keeping implementation details and compatibility claims tied to the evidence actually available.
 
 **Project status:** Experimental research. The supplied source includes an AIO lifecycle/concurrency test harness and exploratory memory-reuse instrumentation. The source alone does **not** demonstrate a working jailbreak for firmware 14.00 or 14.10, nor a reliable end-to-end privilege-escalation chain.
 
@@ -203,6 +203,6 @@ This project is intended for authorized security research, analysis, and educati
 
 ## Final Status
 
-`prolapse` is an experimental PS5 research repository with a supplied AIO lifecycle/concurrency source file and supporting documentation. Its value should be assessed through source accuracy, attribution, reproducibility, and supporting evidence. Previously published findings should remain credited to their original researchers, and unfinished work should remain labeled as unfinished.
+`publapse` is an experimental PS5 research repository with a supplied AIO lifecycle/concurrency source file and supporting documentation. Its value should be assessed through source accuracy, attribution, reproducibility, and supporting evidence. Previously published findings should remain credited to their original researchers, and unfinished work should remain labeled as unfinished.
 
 The goal is transparent research—not an unsupported claim of a completed jailbreak or universal firmware exploit.
