@@ -1,4 +1,4 @@
-# PS5 14.00 / 14.10 Jailbreak Proof of Concept
+# PS5 14.00 / 14.10 Jailbreak Proof of Concept Using Public-Reference (Publapse)
 
 **Experimental PS5 security research and Jailbreak Proof of Concept public-reference collection.**
 
